@@ -43,11 +43,11 @@ body {
 
 /* Main marketing message and sign up button */
 .jumbotron {
-  text-align: center;
+  text-align: left; /*changed from center->left*/
   border-bottom: 1px solid #e5e5e5;
 }
 .jumbotron .btn {
-  padding: 14px 24px;
+  padding: 24px 34px; /*change from  14px 24px->24px 34px*/
   font-size: 21px;
 }
 
